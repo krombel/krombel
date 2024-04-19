@@ -1,4 +1,5 @@
-### Hi there 👋
+![Krombel's GitHub stats](https://github-readme-stats.vercel.app/api?username=krombel&count_private=true&show_icons=true&theme=gotham&include_all_commits=true)
+![Krombel's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=krombel&count_private=true&show_icons=true&theme=gotham&include_all_commits=true&langs_count=5)
 
 <!--
 **krombel/krombel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
